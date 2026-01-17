@@ -14,18 +14,18 @@ Permanent UK resident, fluent in English and Russian
 
 **Unity Developer, XYZ Reality**  
 *Jul 2024 – Present*  
-{C++, C#, Unity, Figma}  
-- Delivered 40+ features for HoloSite, XYZ Reality’s engineering-grade AR platform for millimeter-accurate BIM overlays, doubling software team output by enhancing UI, backend workflows, and network tools.  
-- Saved £500k annually by replacing Unity license with a custom C++ implementation, regaining full platform control and accelerating development cycles.  
-- Worked closely with both the engineering team and the on site staff to resolve technical issues as they would arise.  
+{C++, C#, .NET, Unity, Figma}
+- Delivered 40+ features for HoloSite, XYZ Reality’s engineering-grade AR platform for millimeter-accurate BIM overlays, doubling software team output by enhancing UI, backend workflows, and network tools.
+- Saved £500k annually by replacing Unity license with a custom C++ implementation and Vulkan Engine, regaining full platform control and accelerating development cycles.
+- Collaborated with backend engineers to build C#/.NET Core services for internal tooling, including REST APIs and data sync tools deployed to Azure.
 - Code used daily by 40+ engineers across major infrastructure projects in 7 countries across the world.
 
 **XR Developer, Animorph**  
 *Oct 2023 – Jun 2024*  
-{C#, Unity, Unreal, ARCore, ARKit}  
-- Developed CrossSense, an MR app with a custom local LLM model as a virtual assistant for elderly people, becoming a finalist of Longitude Prize and secured £300k funding.  
-- Built a full standalone MR tool for stroke and Alzheimer’s therapy in collaboration with UK medical institutions, helping further raise funding from Innovate UK.  
-- Created an iOS and Android AR game for young patients to explore the hospital during their stay, improving their wellbeing.
+{C++, C#, Unity, Unreal, iOS, Android}
+- Developed CrossSense, an MR app with a custom local LLM model as a virtual assistant for elderly people, becoming a finalist of Longitude Prize and secured £300k funding.
+- Built a full standalone MR tool for stroke and Alzheimer’s therapy in collaboration with UK medical institutions, helping further raise funding from Innovate UK.
+- Created an iOS and Android AR applications for young patients to explore the hospital during their stay, improving their wellbeing.
 
 **XR Developer, UCL Institute of Cognitive Neuroscience**  
 *May 2023 – Oct 2023*  
@@ -53,8 +53,8 @@ Permanent UK resident, fluent in English and Russian
 ## Skills & Education
 
 **Skills**  
-**Languages:** C++, C#, JavaScript, Python (ML – TensorFlow, Keras)  
-**Development:** Unity, AR Foundation, ARKit, Unreal Engine, Lens Studio, Effect House  
+**Languages:** C++, C#, .NET Core, JavaScript, Python (ML – TensorFlow, Keras)  
+**Platforms:** UUnity, Unreal Engine, iOS, Android, Azure Functions
 **Design:** Adobe Suite, UX Design, Figma, Grasshopper  
 **Graphics & CAD:** Rhino 3D, Blender, Vray, Enscape, Maya, Revit, CAD Drawing
 
